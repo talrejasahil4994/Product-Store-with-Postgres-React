@@ -2,7 +2,7 @@
 
 A modern, full-stack PERN (PostgreSQL, Express, React, Node.js) e-commerce application with advanced security features, elegant UI design, and seamless user experience.
 
-![Product Store Homepage](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2ad2bcae-801b-467b-beb2-4357c3d4d2a0.png)
+![Product Store Homepage](./img/show.png)
 
 ## ✨ Features
 
@@ -158,7 +158,7 @@ Product-Store-with-Postgres-React/
 ## 🎨 UI Components
 
 ### Homepage Interface
-![Product Store Homepage](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2ad2bcae-801b-467b-beb2-4357c3d4d2a0.png)
+![Product Store Homepage](./img/show.png)
 
 The homepage features:
 - **Navigation Bar**: Logo, theme selector, and product count
@@ -167,7 +167,7 @@ The homepage features:
 - **Empty State**: Friendly message when no products exist
 
 ### Add Product Modal
-![Add Product Modal](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/ff010b51-610d-40d4-922d-b8e0237cdace.png)
+![Add Product Modal](./img/add.png)
 
 Modal features:
 - **Form Validation**: Required field validation
@@ -176,7 +176,10 @@ Modal features:
 - **Error Handling**: Toast notifications for errors
 
 ### Product Edit Page
-![Product Edit Page](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/4464cbcb-bf34-48a5-b5d8-94856ba639f7.png)
+![Product Edit Page](./img/edit.png)
+
+### Themes DropDown
+![Product Edit Page](./img/theme.png)
 
 Edit page includes:
 - **Image Preview**: Live preview of product image
